@@ -1,5 +1,5 @@
 # Civics411 - Puerto Rico
 
-### [Index](https://github.com/civics411/information) > [Territories](../) > Puerto Rico
+### [Index](../../README.md) > [Territories](../) > Puerto Rico
 
-Nothing here yet.. but you can help!
+Nothing here yet.. but [you can help](../../CONTRIBUTING.md)!

@@ -1,6 +1,6 @@
 # Civics411 - US Territories
 
-### [Index](https://github.com/civics411/information) > Territories
+### [Index](../README.md) > Territories
 
 * [American Samoa](./american-samoa)
 * [Guam](./guam)
